@@ -16,3 +16,6 @@ Photocatalytic reactor designs are tailored for applications in environmental re
 ### 1. Hemispherical Reactor
 ### 2. Basket Reactor
 ### 3. Section Reactor
+
+## Performance Metrics - Photocatalytic Space-time yield (PSTY)
+Photocatalytic Space-time yield performance metric is used to calculate the best photocatalytic reactor in terms of usage of volume and residence time.
